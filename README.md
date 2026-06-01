@@ -27,7 +27,8 @@ O objetivo principal do projeto foi praticar conceitos fundamentais de desenvolv
 
 ### Imagem
 
-![Preview do Projeto](./src/imagens/preview.png)
+![Preview do Projeto](preview1.png)
+![Preview do Projeto](preview2.png)
 
 ### Demonstração
 
