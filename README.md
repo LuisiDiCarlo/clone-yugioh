@@ -32,7 +32,7 @@ O objetivo principal do projeto foi praticar conceitos fundamentais de desenvolv
 
 ### Demonstração
 
-Link: https://seu-link-aqui.com
+Link: https://luisidicarlo.github.io/clone-yugioh/
 
 ---
 
